@@ -1,0 +1,19 @@
+{
+    "name": "admin/base_02",
+    "type": "base",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sinhduong",
+            "email": "sinhduong1508@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.13",
+        "phroute/phroute": "^2.2"
+    }
+}
